@@ -1,5 +1,5 @@
 # Simulación de admisiones Espol
-Este es un proyecto que simula el sistema de admsiones Espol para administrar usuarios y cupos.
+Este es un proyecto que simula el sistema de admisiones Espol para administrar usuarios y cupos.
 
 
 ## Metodología aplicada
