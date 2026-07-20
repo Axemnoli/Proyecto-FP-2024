@@ -7,10 +7,10 @@ El proyecto fue desarrollado uando Python en el IDE [Pycharm](www.jetbrains.com/
 
 Para el desarrollo del proyecto se usaron las siguientes librerías:
 
-# Random
+### Random
 Se utilizó para la ponderación aleatoria en el sistema de cupos.
 
-# Numpy
+### Numpy
 Se implementó para los cálculos matemáticos durante el promedio.
  
 
